@@ -7,3 +7,4 @@ MailGunは、パスワードを忘れた場合の機能を提供します。パ�
 Run project: yarn prod:start or yarn:start
 Confix in package.json
 Usecase UML:
+![feature-image](https://github.com/tonganh/stagings-backend/blob/d65d3479007c4dfbe2db4f6d70caae8162f024ca/useCase.png)
