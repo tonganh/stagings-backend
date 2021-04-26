@@ -3,9 +3,9 @@
 
 このプロジェクトに対する技術を使っているのは：
 - フロントエンド: 
-    -[React](https://facebook.github.io/react/)
-    -[Umi](https://github.com/umijs/umi)
-    -[Ant-Design](https://github.com/ant-design/ant-design)
+    - [React](https://facebook.github.io/react/)
+    - [Umi](https://github.com/umijs/umi)
+    - [Ant-Design](https://github.com/ant-design/ant-design)
 - バックエンド:
     - フレームうーく: [Express](http://expressjs.com/)
     - データベース：[Mongoose](http://mongoosejs.com/)
