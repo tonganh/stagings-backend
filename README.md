@@ -2,11 +2,27 @@
 
 
 このプロジェクトに対する技術を使っているのは：
-- フロントエンド: [React](https://facebook.github.io/react/)や[Umi](https://github.com/umijs/umi)、他には[Ant-Design](https://github.com/ant-design/ant-design)
+- フロントエンド: 
+    -[React](https://facebook.github.io/react/)
+    -[Umi](https://github.com/umijs/umi)
+    -[Ant-Design](https://github.com/ant-design/ant-design)
 - バックエンド:
     - フレームうーく: [Express](http://expressjs.com/)
     - データベース：[Mongoose](http://mongoosejs.com/)
     - ストレージ:[MinIO](https://min.io/)
+
+プロジェクトの内容：
+# プロジェクトの目的：
+- 会社の情報管理。
+# プロジェクトの作る理由：
+- 以前の論文である手動の方法に従って、管理方法を完全に置き換えます。
+# 問題を解決まします：
+- 管理プロセスのエラーを最小限に抑えます-レポート情報の統合。
+- ジョブ管理速度を最適化します。
+- 不必要な情報の損失を避けてください。
+- 明確で透明性のある管理情報。
+
+
 
 １ステージが終了しました。現在、このウェブサイトは社員情報、プロジェック、給与、レボート情報を管理する機能があります。
 現在チーム開発中で、バックエンドを担当しています。 今、私のチームは　２ ステージ を開発しています。
