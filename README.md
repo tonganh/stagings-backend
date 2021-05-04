@@ -57,4 +57,4 @@ yarn start:dev
 プログラムを実行するには、db.jsでデータベース接続を設定する必要があります。
 
 Usecase UML:
-![feature-image](https://github.com/tonganh/stagings-backend/blob/d65d3479007c4dfbe2db4f6d70caae8162f024ca/useCase-日本語.png)
+![feature-image](https://github.com/tonganh/stagings-backend/blob/master/useCase-%E6%97%A5%E6%9C%AC%E8%AA%9E.png?raw=true)
